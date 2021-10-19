@@ -1,6 +1,6 @@
 Advanced security logger designed to protect your WordPress from hackers. It allows you to look at live logs of your website and lets you detect malicious activities. There are multiple security features of this plugin that you can explore to keep your WordPress secure. 
 
-**Description**
+## Description
 
 Advanced security logger comes with multiple different security features. It allows you to look at live logs of your website and lets you detect malicious activities of both users and admins. There are multiple security features of this plugin that you can explore. You can also hide your WordPress with this security plugin.
 
@@ -43,7 +43,7 @@ If you find any security issues in our plugin, please reach out to us - hello@pe
 
 
 
-**Installation**
+## Installation
 
 This section describes how to install the plugin and get it working.
 
@@ -54,7 +54,7 @@ e.g.
 1. Use the Settings->Plugin Name screen to configure the plugin
 1. (Make your instructions match the desired user flow for activating and installing your plugin. Include any steps that might be needed for explanatory purposes)
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ==
 
 = Is this plugin FREE? =
 
@@ -73,8 +73,8 @@ Please contact us as soon as possible at hello@pentest7.io , We will try to patc
 
 
 
-== Changelog ==
+## Changelog ==
 
 
-== Upgrade Notice ==
+## Upgrade Notice ==
 
