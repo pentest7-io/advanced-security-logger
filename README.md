@@ -78,3 +78,6 @@ Please contact us as soon as possible at hello@pentest7.io , We will try to patc
 
 ## Upgrade Notice ==
 
+
+
+<a href="https://pentest7.io"><img src="https://github.com/pentest7-io/advanced-security-logger/raw/main/advanced-security-logger-by-pentest7/assets/banner/banner.gif" width="30%"></a>
